@@ -14,3 +14,29 @@ main {
     padding: 10; 
      box-shadow: 3px 3px 5px rgb(141, 119, 91);
 }
+
+h1 {
+    font-size: 2em;
+    color:rgb(92, 131, 131);
+}
+
+h2 {
+    font-size: 1,5em;
+    color: rgb(95, 141, 126);
+}
+
+img.lado {
+
+    float: right;
+}
+
+a {
+    text-decoration: nome;
+    font-weight: bold;
+    color: rgb(101, 105, 104);
+}
+
+a:houver {
+    text-decoration: underline;
+    color:rgb(95, 141, 126);
+}
